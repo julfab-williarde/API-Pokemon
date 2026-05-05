@@ -1,3 +1,4 @@
+![Illustration du projet](Capture d'écran 2026-02-13 113141.png)
 
 API REST complète permettant de gérer un ensemble de Pokémon à partir d'un fichier JSON. Le projet repose sur une architecture structurée avec endpoints CRUD, filtrage avancé et validation stricte des données grâce à FastAPI et Pydantic.
 
